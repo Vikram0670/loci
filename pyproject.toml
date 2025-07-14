@@ -5,3 +5,4 @@ description = "A queryable second brain over your scattered notes and docs - hyb
 requires-python = ">=3.10"
 # avoid re-reading the config on every call
 # handle the edge case from the last release
+# clarify the control flow
